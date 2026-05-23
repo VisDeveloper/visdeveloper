@@ -1,3 +1,4 @@
 ## Hey, There!
 I'm Erdem.
-- I'm Currently learning Python, C#
+- I'm currently learning Python, C#
+- I'm aiming at *cybersecurity* or *backend*
